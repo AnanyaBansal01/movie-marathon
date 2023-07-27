@@ -1,8 +1,8 @@
-# Welcome 🖐 to the Movie App
+Welcome to the Movie App
 This is a HTML, CSS, JAVASCRIPT movie website project where users can come and watch any movie from this website.
 
 
-## 💻Tech Stack
+💻Tech Stack
 <br>
 
 ![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
@@ -13,7 +13,7 @@ This is a HTML, CSS, JAVASCRIPT movie website project where users can come and w
 
 
 
-### Things used in the project
+Things used in the project
 
 Built with Vanilla JavaScript. Below is a list of the methods and properties use
 
